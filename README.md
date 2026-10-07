@@ -33,6 +33,7 @@ The project answers key business questions such as:
 ## 📌 Dashboards
 
 ### 1. Customer Behaviour
+![Customer Behaviour Dashboard](Screenshots/Customer_Behaviour_Dashboard.png)
 
 Analyzes customer characteristics and purchasing behavior.
 
@@ -42,6 +43,7 @@ Analyzes customer characteristics and purchasing behavior.
 - Body Style Preference
 
 ### 2. Dealer & Product Performance
+![Dealer & Product Performance Dashboard](Screenshots/Dealer_Product_Performance_Dashboard.png)
 
 Analyzes dealer performance and product preferences.
 
@@ -51,6 +53,7 @@ Analyzes dealer performance and product preferences.
 - Transmission Preference
 
 ### 3. Sales Analysis
+![Car Sales Overview Dashboard](Screenshots/Car_Sales_Overview_Dashboard.png)
 
 Provides an overall view of car sales performance across relevant business dimensions.
 
